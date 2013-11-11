@@ -1,0 +1,50 @@
+#######################################
+# Syntax Coloring Map For MechRobot
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MechRobot	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init    KEYWORD2
+setSpeed    KEYWORD2
+setLeftSpeed
+setRightSpeed
+getRightSpeed
+getLeftSpeed
+forward
+backward
+turnLeft
+turnRight
+veerLeft
+veerRight
+backup
+halt
+lookAhead
+lookLeft
+lookRight
+setLookDirection
+getLookDirection
+sonarDistance
+irDistance
+bump
+isLeftLine
+isRightLine
+leftLightLevel
+rightLightLevel
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+       
+
+        
+  
